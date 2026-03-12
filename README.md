@@ -17,6 +17,10 @@ An agent can now complete the full domain lifecycle without human intervention:
 check availability → register → configure DNS → provision SSL → set up email
 ```
 
+<a href="https://glama.ai/mcp/servers/oso95/domain-suite-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/oso95/domain-suite-mcp/badge" alt="domain-suite-mcp MCP server" />
+</a>
+
 ---
 
 ## Quick Start
