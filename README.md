@@ -23,6 +23,10 @@ check availability → register → configure DNS → provision SSL → set up e
 
 ---
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/oso95-domain-suite-mcp).
+
 ## Quick Start
 
 **No installation required.** Domain availability checking works immediately with zero configuration via public RDAP/WHOIS protocols.
